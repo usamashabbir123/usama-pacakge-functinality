@@ -1,0 +1,27 @@
+{
+  "name": "typescript-usama-functionality",
+  "version": "1.0.0",
+  "description": "this package is for console logs ",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usamashabbir123/usama-pacakge-functinality.git"
+  },
+  "keywords": [
+    "console logs colors "
+  ],
+  "author": "usama shabbir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/usamashabbir123/usama-pacakge-functinality/issues"
+  },
+  "homepage": "https://github.com/usamashabbir123/usama-pacakge-functinality#readme",
+  "files": [
+    "lib/**/*"
+  ]
+}
